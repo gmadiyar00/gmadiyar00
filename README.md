@@ -6,7 +6,6 @@ Advanced data structures, system design, and contributing to open-source project
 - 💞️ I’m looking to collaborate on:
 Open-source projects, innovative tech solutions, and anything that makes a meaningful impact.
 - 📫 How to reach me:
-Email: gmadiyar@depaul.edu
 LinkedIn: [linkedin.com/in/gmadiyarova](https://www.linkedin.com/in/gulbanu-r-m/) 
 - 😄 Pronouns:
 She/Her
